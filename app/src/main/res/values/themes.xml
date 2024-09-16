@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TUGAS03_PAM_B_JihanSyahdaAddieni_225150407111026" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/bgreen</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TUGAS03_PAM_B_JihanSyahdaAddieni_225150407111026" parent="Base.Theme.TUGAS03_PAM_B_JihanSyahdaAddieni_225150407111026" />
+</resources>
